@@ -316,6 +316,10 @@ button {
     align-self: center;
 }
 
+.controls {
+    display: none;
+}
+
 .index_clientReview h2 {
     font-size: 25px;
 }
